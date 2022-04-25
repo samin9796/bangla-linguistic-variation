@@ -1,5 +1,8 @@
 # Text preprocessing steps:
-1. Tokenization
-2. Removing punctuations
-3. Removing unwanted characters
-4. Removing line breaks
+1. CSV to Text generation
+2. Tokenization
+3. Removing punctuations
+4. Removing unwanted special characters
+5. Removing English alphabets
+6. Removing any digit
+7. Removing line breaks
